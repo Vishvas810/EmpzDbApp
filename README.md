@@ -30,28 +30,28 @@ Make sure to configure your MySQL database with the appropriate schema for emplo
 
 1. **Home Page**  
    The landing page of the Employee Management System where users can navigate to different functionalities.  
-   ![Home Page](screenshots/homepage.png)  
+   ![Home Page](Screenshots/homepage.png)  
 
 2. **Add Employee Page**  
    A form where users can enter details to add a new employee.  
-   ![Add Employee](screenshots/add_employee.png)  
+   ![Add Employee](Screenshots/add_employee.png)  
 
 3. **Success Message**  
    A confirmation message displayed after successfully adding a new employee.  
-   ![Success](screenshots/success.png)  
+   ![Success](Screenshots/success.png)  
 
 4. **View Employees**  
    A list of all employees stored in the database, displayed in a table format.  
-   ![View Employees](screenshots/view_employees.png)  
+   ![View Employees](Screenshots/view_employees.png)  
 
 5. **Edit Employee**  
    A page where users can update an employee's information, with prefilled existing details.  
-   ![Edit Employee](screenshots/edit_employee.png)  
+   ![Edit Employee](Screenshots/edit_employee.png)  
 
 6. **Updated Employee Details**  
    The updated employee information is reflected in the list after editing.  
-   ![Updated Employee](screenshots/updated_employee.png)  
+   ![Updated Employee](Screenshots/updated_employee.png)  
 
 7. **Delete Employee**  
    A delete button to remove an employee from the system. For example, record 5 is deleted, and the updated list is displayed.  
-   ![Delete Employee](screenshots/delete_employee.png)  
+   ![Delete Employee](Screenshots/delete_employee.png)  
