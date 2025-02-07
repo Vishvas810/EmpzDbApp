@@ -1,0 +1,22 @@
+# Eclipse specific files
+/.project
+/.classpath
+/.settings/
+/bin/
+/target/
+
+
+# Ignore operating system files
+Thumbs.db      # Windows specific file
+
+# Ignore log files
+*.log
+
+
+# Ignore compiled class files
+*.class
+
+
+# Ignore build and generated directories
+/build/
+/out/
